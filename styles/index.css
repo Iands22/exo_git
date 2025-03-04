@@ -1,4 +1,14 @@
-body {
-  background-color: red;
-  color: white;
+body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	text-align: center;
+}
+
+
+.bg-red{
+	background-color: red;
+	color: white;
 }
