@@ -3,3 +3,4 @@ tmp/*
 */xml
 modules/
 *.docx
+node_modules/
