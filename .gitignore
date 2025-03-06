@@ -4,3 +4,4 @@ tmp/*
 modules/
 *.docx
 node_modules/
+*.txt
